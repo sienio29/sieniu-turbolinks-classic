@@ -1,4 +1,4 @@
-Turbolinks Classic is now deprecated
+Turbolinks Classic is now deprecated but forked by turbosieniu
 ====================================
 
 Turbolinks 5 is a ground-up rewrite with a new flow, new events, but the same core idea. It's available at [turbolinks/turbolinks](https://github.com/turbolinks/turbolinks). This repository remains available for existing applications built on what we now call Turbolinks Classic.
